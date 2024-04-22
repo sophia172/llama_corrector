@@ -1,0 +1,6 @@
+huggingface-hub
+transformers
+torch
+accelerate
+#huggingface-cli login
+#huggingface-cli whoami
